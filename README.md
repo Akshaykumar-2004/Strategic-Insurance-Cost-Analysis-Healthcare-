@@ -95,4 +95,17 @@ The final cleaned and enriched dataset (`insurance_final_for_dashboard.csv`) was
 
 ---
 
-## 📁 Repository Structure
+
+---
+
+## 🚀 Future Work
+- Apply **machine learning models** to predict medical charges based on demographic and lifestyle factors.  
+- Integrate **risk scoring models** for underwriting optimization.  
+- Add **automated refresh** and **real-time data streaming** for Power BI dashboards.
+
+---
+
+## 🧾 Citation
+Dataset Source: [Medical Cost Personal Datasets – Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
+(cite: 1005–1115)
+
